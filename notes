@@ -1,0 +1,5 @@
+npm install
+npm start
+sudo npm install -g babel-node
+sudo npm install -g create-react-app
+npm install -S react-icons
